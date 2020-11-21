@@ -1,0 +1,4 @@
+melody
+vocal
+lyric
+solo

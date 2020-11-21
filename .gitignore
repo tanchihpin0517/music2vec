@@ -1,0 +1,3 @@
+cmidi/
+*.mid
+__pycache__/
